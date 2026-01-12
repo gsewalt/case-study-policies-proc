@@ -11,7 +11,7 @@
 
 ## 1. Purpose
 
-This deliverable documents the development and implementation of a lightweight but effective **information security policy program** for a small real estate brokerage handling sensitive client and financial data.
+This case study documents the development and implementation of a lightweight but effective **information security policy program** for a small real estate brokerage handling sensitive client and financial data.
 
 The objective was to:
 - Establish clear security expectations
