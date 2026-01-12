@@ -248,7 +248,7 @@ Policy updates are triggered by:
 
 ## 10. Conclusion
 
-This deliverable demonstrates how a **formal security policy program can be designed, implemented, and socialized in a small business environment** without excessive complexity.
+This case study demonstrates how a **formal security policy program was designed, implemented, and socialized in a small business environment** without excessive complexity.
 
 By grounding policies in risk, aligning to NIST frameworks, and focusing on staff understanding, the brokerage established a sustainable security foundation that supports both business operations and client trust.
 
